@@ -1,0 +1,9 @@
+{
+    "created_at": "Thu May 10 15:24:15 +0000 2018",
+    "id_str": "850006245121695744",
+    "text": "blanc is gay for traps",
+    "user": {},
+    "place": {},
+    "entities": {},
+    "extended_entities": {}
+}
