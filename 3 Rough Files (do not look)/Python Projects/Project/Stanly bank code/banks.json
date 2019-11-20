@@ -1,0 +1,12 @@
+{
+  "banks": [
+    {
+      "name": "shinobi",
+      "password": "kenzan"
+    },
+    {
+      "name": "hello",
+      "password": "bank"
+    }
+  ]
+}

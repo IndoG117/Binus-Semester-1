@@ -1,0 +1,9 @@
+{
+  "customers": [
+    {
+      "name": "Stanlly Henrietta",
+      "balance": 5000,
+      "password": "123456"
+    }
+  ]
+}
